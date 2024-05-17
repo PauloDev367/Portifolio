@@ -220,3 +220,7 @@ footer ul li a:hover {
     background-color: transparent;
     color: var(--verde);
 }
+
+#casos{
+    padding: 40px 0;
+}

@@ -216,7 +216,7 @@
             <h2>Meu portifólio</h2>
             <p>
               Alguns dos projetos desenvolvidos no decorrer da minha carreira. Fique à vontade para navegar
-              entre todos eles e baixar o .pdf para visualizar melhor cada um. 
+              entre todos eles e baixar o .pdf para visualizar melhor cada um.
             </p>
           </div>
 
@@ -266,6 +266,66 @@
             </a>
           </div>
 
+        </div>
+      </div>
+    </section>
+
+    <section id="casos">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-12">
+            <h2>MAIS DO QUE O ESPERADO</h2>
+          </div>
+          <div class="col-12 col-lg-6">
+            <p>
+              Além de possuir os conhecimentos necessários para desenvolver projetos de alta qualidade por meio de
+              código, tenho experiência prática nas etapas fundamentais da engenharia de software. Já participei das
+              seguintes etapas:
+            </p>
+            <ul>
+              <li>Levantamento de requisitos</li>
+              <li>Elaboração de diagramas de casos de uso</li>
+              <li>Elaboração de diagramas de classe</li>
+              <li>Criação de wireframes em ferramentas como Figma</li>
+              <li>Criação de layouts completos no Figma</li>
+              <li>Atendimento ao cliente pós-desenvolvimento</li>
+              <li>Treinamento de uso da plataforma</li>
+            </ul>
+            <p>
+              Essa combinação de habilidades técnicas e experiência prática permite-me contribuir significativamente
+              para o sucesso de qualquer projeto.
+
+            </p>
+          </div>
+          <div class="col-12 col-md-6">
+            <div id="carouselDiagram" class="carousel slide" data-ride="carousel">
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <img class="d-block w-100" src="../assets/images/diagramas/1.png" alt="First slide">
+                </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="../assets/images/diagramas/2.jpeg" alt="Second slide">
+                </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="../assets/images/diagramas/3.jpeg" alt="Third slide">
+                </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="../assets/images/diagramas/4.jpeg" alt="Second slide">
+                </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="../assets/images/diagramas/5.jpeg" alt="Third slide">
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselDiagram" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselDiagram" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+              </a>
+            </div>
+          </div>
         </div>
       </div>
     </section>
