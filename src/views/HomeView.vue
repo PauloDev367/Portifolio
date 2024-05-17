@@ -34,7 +34,7 @@
   <div class="conteudo-principal">
     <header>
       <div class="container">
-        <div class="row align-items-center">
+        <div class="row align-items-center flex-wrap-reverse">
           <div class="col-12 col-md-6">
             <h2>Olá</h2>
             <h1>Eu sou Paulo Silva</h1>
@@ -68,10 +68,10 @@
     <section id="sobre">
       <div class="container">
         <div class="row align-items-center">
-          <div class="col-12 col-md-6">
+          <div class="col-12 col-lg-6">
             <img src="../assets/images/2.jpg" alt="Complementar" class="w-100">
           </div>
-          <div class="col-12 col-md-6">
+          <div class="col-12 col-lg-6">
             <h2>Deixe-me apresentar</h2>
             <p>
               Olá, sou Paulo Silva, um entusiasta da tecnologia e, atualmente, Desenvolvedor de Software na Luma
