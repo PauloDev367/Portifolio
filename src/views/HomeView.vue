@@ -216,54 +216,54 @@
             <h2>Meu portifólio</h2>
             <p>
               Alguns dos projetos desenvolvidos no decorrer da minha carreira. Fique à vontade para navegar
-              entre todos eles e baixar o .pdf para visualizar melhor cada um.
+              entre todos eles e baixar o .pdf para visualizar melhor cada um. 
             </p>
           </div>
 
           <div class="col-6 col-md-4">
-            <div class="card-portifolio">
+            <a href="/pdf/projetos/9.pdf" download="9.pdf" class="card-portifolio">
               <img src="../assets/images/projetos/1.png" class="w-100" alt="Projeto Feedbacks">
-            </div>
+            </a>
           </div>
           <div class="col-6 col-md-4">
-            <div class="card-portifolio">
+            <a href="/pdf/projetos/8.pdf" download="1.pdf" class="card-portifolio">
               <img src="../assets/images/projetos/2.png" class="w-100" alt="Projeto PIX Mercado Pago">
-            </div>
+            </a>
           </div>
           <div class="col-6 col-md-4">
-            <div class="card-portifolio">
+            <a href="/pdf/projetos/7.pdf" download="1.pdf" class="card-portifolio">
               <img src="../assets/images/projetos/3.png" class="w-100" alt="Projeto Busshopping">
-            </div>
+            </a>
           </div>
           <div class="col-6 col-md-4">
-            <div class="card-portifolio">
+            <a href="/pdf/projetos/6.pdf" download="6.pdf" class="card-portifolio">
               <img src="../assets/images/projetos/4.png" class="w-100" alt="Projeto IBM + CF2Forum">
-            </div>
+            </a>
           </div>
           <div class="col-6 col-md-4">
-            <div class="card-portifolio">
+            <a href="/pdf/projetos/5.pdf" download="5.pdf" class="card-portifolio">
               <img src="../assets/images/projetos/5.png" class="w-100" alt="Projeto Pipefy">
-            </div>
+            </a>
           </div>
           <div class="col-6 col-md-4">
-            <div class="card-portifolio">
+            <a href="/pdf/projetos/4.pdf" download="4.pdf" class="card-portifolio">
               <img src="../assets/images/projetos/6.png" class="w-100" alt="Projeto Mini Portal">
-            </div>
+            </a>
           </div>
           <div class="col-6 col-md-4">
-            <div class="card-portifolio">
+            <a href="/pdf/projetos/3.pdf" download="3.pdf" class="card-portifolio">
               <img src="../assets/images/projetos/7.png" class="w-100" alt="Projeto Transfer do Torcedor">
-            </div>
+            </a>
           </div>
           <div class="col-6 col-md-4">
-            <div class="card-portifolio">
+            <a href="/pdf/projetos/2.pdf" download="2.pdf" class="card-portifolio">
               <img src="../assets/images/projetos/8.png" class="w-100" alt="Projeto Controle de Estoque">
-            </div>
+            </a>
           </div>
           <div class="col-6 col-md-4">
-            <div class="card-portifolio">
+            <a href="/pdf/projetos/1.pdf" download="1.pdf" class="card-portifolio">
               <img src="../assets/images/projetos/9.png" class="w-100" alt="Projeto Ingressos Online">
-            </div>
+            </a>
           </div>
 
         </div>

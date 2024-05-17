@@ -176,6 +176,7 @@ header a:hover {
     transition: all .3s;
     cursor: pointer;
     border: 3px solid #fff;
+    display: block;
 }
 
 .card-portifolio:hover {
