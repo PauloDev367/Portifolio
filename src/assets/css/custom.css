@@ -164,8 +164,9 @@ header a:hover {
 #conhecimentos {
     padding: 40px 0;
 }
+
 .carousel-control-prev-icon,
-.carousel-control-next-icon{
+.carousel-control-next-icon {
     background-color: #000 !important;
 }
 
@@ -233,6 +234,7 @@ footer ul li a:hover {
     padding: 10px;
 }
 
+
 .card-project img {
     width: 100%;
     display: inline-block;
@@ -246,6 +248,19 @@ footer ul li a:hover {
     font-size: 1.1rem;
     text-align: center;
     margin-top: 10px;
+}
+
+@media (max-width: 768px) {
+    .card-project {
+        width: 45%;
+        height: unset;
+    }
+}
+
+@media (max-width: 576px) {
+    .card-project {
+        width: 100%;
+    }
 }
 
 .modal-projeto h5 {
