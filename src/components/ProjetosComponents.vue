@@ -10,7 +10,9 @@
           :src="require(`../assets/images/projetos/${data.caminho_img}/1.png`)"
           alt="Foto capa"
         />
-        <h3>{{ data.titulo }}</h3>
+        <div class="infos">
+          <h3>{{ data.titulo }}</h3>
+        </div>
       </div>
     </template>
   </div>
