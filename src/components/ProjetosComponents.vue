@@ -502,5 +502,128 @@ const projetos = ref([
     total_img: 11,
     caminho_img: "sistemadevotos",
   },
+  {
+    titulo: "Online Raffle Sales System - Laravel and Blade",
+    texto: `
+    <p>
+      This online raffle sales system was developed using Laravel and Blade, combining a modern and robust architecture with optimized features for lottery and ticket sales.
+    </p>
+
+    <h3>Key Features:</h3>
+    <h5>Administrator Raffle Management:</h5>
+    <ul>
+      <li>
+        <strong>Raffle Registration:</strong>
+       
+      <ul>
+        <li>
+            Configure new raffles with details such as:
+            <li>Draw date.</li>
+            <li>Price per ticket.</li>
+            <li>Cover photo to enhance appeal.</li>
+            <li>Prizes available for winners.</li>
+            <li>Automatic purchase buttons for user convenience.</li>
+          </li>
+      </ul>
+      </li>
+    </ul>
+    
+    <ul>
+      <li>
+        <strong>Raffle Ticket Generation and Management:</strong>
+        <ul>
+        <li>Support for up to 1 million numbered tickets generated in a sequence of six pairs.</li>
+        <li>Use of Jobs and Queues for efficient ticket generation and processing, ensuring data integrity and scalability.</li>
+        </ul>
+      </li>
+    </ul>
+    
+    <ul>
+      <li>
+        <strong>Purchase Processing and Notifications:</strong>
+        <li>
+          Automated Email Notifications:
+          <ul>
+          <li>Emails sent automatically for:</li>
+          <li>Successful purchase confirmation.</li>
+          <li>Winner announcements after the draw.</li>
+          </ul>
+        </li>
+      </li>
+    </ul>
+    
+    <ul>
+      <li>
+        <strong>Postgres Database:</strong>
+        <li>
+          Chosen for its:
+          <ul>
+          <li>Robustness in handling large data volumes (e.g., numbered tickets).</li>
+          <li>Security to protect financial and user information.</li>
+          </ul>
+        </li>
+      </li>
+    </ul>
+    
+    <ul>
+      <li>
+        <strong>Dockerized Development Environment:</strong>
+        <li>
+          The system is configured to run in Docker containers, ensuring:
+          <ul>
+          <li>A standardized development environment.</li>
+          <li>Ease of deployment and testing.</li>
+          </ul>
+        </li>
+      </li>
+    </ul>
+    
+    <h3>System Benefits:</h3>
+      <ul>
+        <li>
+          Scalability:
+          <ul>
+          <li>Designed to handle large volumes of raffles and users while maintaining high performance.</li>
+          </ul>
+        </li>
+      </ul>
+      
+      <ul>
+        <li>
+          <strong>Security and Reliability</strong>
+          <ul>
+          <li>PostgreSQL ensures data integrity.</li>
+          <li>Jobs and Queues prevent failures during intensive task processing.</li>
+          </ul>
+        </li>
+      </ul>
+    
+      <ul>
+        <li>
+          <strong>User Experience:</strong>
+          <ul>
+          <li>Elegant and intuitive interface for both administrators and participants.</li>
+          <li>Automated notifications keep users informed at every stage.</li>
+          </ul>
+        </li>  
+      </ul>
+    
+      <ul>
+        <li>
+          <strong>Flexibility:</strong>
+          <ul>
+          <li>Easy raffle and ticket management with customization options for different events.</li>
+          </ul>
+        </li>
+      
+      </ul>
+    
+    <p>
+      This online raffle system is an ideal solution for administrators seeking to organize lotteries efficiently, offering secure processing and an enjoyable experience for both participants and organizers.
+    </p>
+    `,
+    total_img: 23,
+    caminho_img: "rifas",
+  },
 ]);
 </script>
